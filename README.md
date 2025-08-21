@@ -1,5 +1,9 @@
 ## Привет 👋
 
+<div align="center">
+  <img src="https://github.com/IgorBoytsov/IgorBoytsov/blob/main/gifs/Coding.gif" alt="Coding GIF"/>
+</div>
+
 <h3 align="left">🛠️ Мой стек технологий:</h3>
 
 <b>💻 Языки:</b>

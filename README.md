@@ -6,6 +6,8 @@
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://github.com/IgorBoytsov/IgorBoytsov/blob/main/images/icons8-sql-96.png" alt="SQL" width="40" height="40"/>
 </div>
 <br>
 

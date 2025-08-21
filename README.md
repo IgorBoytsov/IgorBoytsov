@@ -2,32 +2,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorboytsov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/IgorBoytsov/IgorBoytsov/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/IgorBoytsov/IgorBoytsov/main/profile-summary-card-output/2077/3-stats.svg" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/IgorBoytsov/IgorBoytsov/main/profile-summary-card-output/2077/4-productive-time.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=igorboytsov&show_icons=true&theme=transparent" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&theme=github_dark&layout=pie" alt="Top Langs" />
   </a>
-</p>
+  
+</div>
 
 <!--
 **IgorBoytsov/IgorBoytsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

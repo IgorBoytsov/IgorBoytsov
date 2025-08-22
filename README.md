@@ -69,9 +69,33 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorboytsov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&theme=github_dark&layout=pie" alt="Top Langs" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IgorBoytsov&show_icons=true&theme=holi" alt="Anurag's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&theme=github_dark&cache_seconds=14400" alt="Top Langs" />
+  </a>
+  <!-- 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" />
+  </a> -->
+</div>
+
+<!-- 
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&theme=github_dark&cache_seconds=14400" alt="Top Langs" />
   </a>
 </div>
+
+<!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IgorBoytsov)](https://github.com/anuraghazra/github-readme-stats)  -->

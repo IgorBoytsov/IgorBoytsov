@@ -1,10 +1,12 @@
 ## 🗺️ Приветствую, путиник 👋
 
+<!-- Изображение -->
+
 <div align="center">
   <img src="https://github.com/IgorBoytsov/IgorBoytsov/blob/main/gifs/Coding.gif" alt="Coding GIF"/>
 </div>
 
-<h3 align="left">🛠️ Мой стек технологий:</h3>
+<h3 align="left"> 🛠️ Мой стек технологий:</h3>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://github.com/IgorBoytsov/IgorBoytsov/blob/main/images/dotNetpng.png" alt=".NET" width="60" height="60" />
@@ -34,7 +36,35 @@
 
 <br>
 
-<h3 align="left">📈    Моя статистика :</h3>
+<!-- Доп список -->
+
+<div align="left">
+<details>
+  <summary><h3>🏛️ Архитектуры и Паттерны</h3></summary>
+  
+  - 🎨 **Архитектурные стили:** `Чистая архитектура (Clean Architecture)`, `Микросервисы`, `Вертикальные срезы (Vertical Slice)`.
+  - 🧩 **Ключевые паттерны:** `CQRS`, `Repository & Unit of Work`.
+  - 🧠 **Подход к проектированию:** `Domain-Driven Design (DDD)`.
+  - 📐 **Базовые принципы:** `SOLID`, `KISS`, `DRY`.
+    
+</details>
+
+<details>
+  <summary><h3>🛠️ Инструменты и Библиотеки</h3></summary>
+  
+  - 🗃️ **Работа с данными:** `Entity Framework Core`.
+  - 📡 **Построение API:** `MediatR`, `FluentValidation`, `AutoMapper`.
+  - ✅ **Тестирование:** `NUnit`, `Moq`.
+  - 📝 **Логирование:** `Serilog`.
+    
+</details>
+</div>
+
+<br>
+
+<!-- Показатели -->
+
+<h3 align="left">📈 Моя статистика :</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorboytsov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

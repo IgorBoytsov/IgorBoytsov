@@ -70,8 +70,16 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=IgorBoytsov&show_icons=true&theme=holi" alt="Anurag's GitHub stats" />
- <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IgorBoytsov&show_icons=true&theme=holi" alt="Anurag's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">

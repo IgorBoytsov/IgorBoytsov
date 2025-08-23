@@ -84,7 +84,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&layout=donut&theme=github_dark&cache_seconds=14400" alt="Top Langs" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" /> 
 </div>
 
 <!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IgorBoytsov)](https://github.com/anuraghazra/github-readme-stats)  -->

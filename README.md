@@ -89,7 +89,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&layout=donut&theme=github_dark&cache_seconds=14400" alt="Top Langs" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&layout=compact&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" /> 
       </td>
     </tr>
   </table>

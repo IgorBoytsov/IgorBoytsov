@@ -86,7 +86,8 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&layout=donut&theme=github_dark&cache_seconds=14400" alt="Top Langs" />
+        <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
+       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&layout=donut&theme=github_dark&cache_seconds=14400" alt="Top Langs" /> -->
       </td>
       <td>
         <img src="https://igor-boytsov-stats.vercel.app/api/wakatime?username=IgorBoytsov&layout=compact&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" />

@@ -68,33 +68,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorboytsov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=IgorBoytsov&show_icons=true&theme=holi" alt="Anurag's GitHub stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="padding-right: 10px;">
-        <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
-       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBoytsov&layout=donut&theme=github_dark&cache_seconds=14400" alt="Top Langs" /> -->
-      </td>
-      <td>
-        <img src="https://igor-boytsov-stats.vercel.app/api/wakatime?username=IgorBoytsov&layout=compact&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" />
-        <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorBoytsov&layout=compact&theme=github_dark&hide_border=true" alt="Igor's WakaTime stats" /> -->
-      </td>
-    </tr>
-  </table>
+  <img src="https://igor-boytsov-stats.vercel.app/api/wakatime?username=IgorBoytsov&layout=compact&theme=github_dark&hide_border=false" alt="Igor's WakaTime stats" />
+</div>
+
+<!--
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
 </div>
 
 <!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IgorBoytsov)](https://github.com/anuraghazra/github-readme-stats)  -->

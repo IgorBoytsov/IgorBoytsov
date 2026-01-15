@@ -70,6 +70,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IgorBoytsov&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Langs" />
   <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Langs" />
 </div>
 
